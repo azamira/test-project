@@ -1,1 +1,2 @@
 This is an input
+This is a new line
